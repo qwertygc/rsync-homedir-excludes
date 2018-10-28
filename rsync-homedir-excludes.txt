@@ -45,7 +45,9 @@
 #Steam
 #.minecraft
 #.PlayOnLinux
-
+#R
+#.rstudio-desktop
+#.qgis2
 
 ################################################
 # These directories may definitely be excluded #
